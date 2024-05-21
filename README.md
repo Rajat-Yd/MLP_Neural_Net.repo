@@ -4,3 +4,4 @@
 - A multi-layer perceptron (MLP) is a type of artificial neural network consisting of multiple layers of neurons. 
 - The neurons in the MLP typically use nonlinear activation functions, allowing the network to learn complex patterns in data.
 - The major use cases of MLP are pattern classification, recognition, prediction and approximation.
+- Example complete ✅✅
